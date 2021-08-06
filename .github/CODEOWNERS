@@ -11,4 +11,4 @@ main.tf @jdevine-avtx
 provider.tf @jdevine-avtx
 variables.tf @jdevine-avtx
 versions.tf @jdevine-avtx
-app-fqdn-rules.tf @ace-secops
+app-fqdn-rules.tf @devineja
